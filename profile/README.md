@@ -1,6 +1,6 @@
 # bgp.cheap
 
-Welcome to the GitHub organization for BGP.Cheap! Our goal is to provide a curated list of recommended providers, services, and resources specifically for newbies and hobbyists. We aim to simplify your search for reliable tools and support, making your learning more enjoyable.
+Welcome to the GitHub organization for BGP.Cheap! Our goal is to provide a curated list of recommended providers, services, and resources specifically for newbies and hobbyists. We aim to simplify your search for reliable hosts and great support, making your learning more enjoyable.
 
 ## Disclaimer
 
